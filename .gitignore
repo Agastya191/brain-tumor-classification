@@ -1,0 +1,7 @@
+data/
+outputs/*.png
+outputs/*.pth
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+src/__pycache__/
